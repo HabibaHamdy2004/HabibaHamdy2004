@@ -1,4 +1,3 @@
-# Personal Career Profile  
 👤 Name: Habiba Hamdy  
 🎯 Role: Aspiring Machine Learning Engineer & Data Scientist  
 
